@@ -60,13 +60,16 @@ TensorFlow / Keras
 NumPy
 
 📌 Notes
+
 Make sure your webcam is enabled.
 
 Works on grayscale face images of 48x48 pixels.
 
 You can extend this for video analysis, mobile apps, or integration with GUI.
 
+
 🙋‍♀️ Created By
+
 Mohanapriya – Final Year IT Student at Annamalai University
 
 
