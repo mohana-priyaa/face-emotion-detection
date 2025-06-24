@@ -33,7 +33,6 @@ This project detects human facial emotions in real time using a webcam. It uses 
    ```bash
    pip install opencv-python tensorflow numpy
 2. Run the script:
-
 bash
 Copy
 Edit
@@ -53,6 +52,7 @@ python main.py
    Dense layers: 512 → 256 → 7 (softmax)
 
 🧰 Libraries Used
+
 OpenCV
 
 TensorFlow / Keras
