@@ -41,9 +41,9 @@ python main.py
 (or new.py, which includes model architecture too)
 
 3. Press Esc to exit the webcam window.
-.
 
 🧠 Model Architecture
+
 4. Conv2D layers with ReLU activation
 
    MaxPooling2D after each conv layer
